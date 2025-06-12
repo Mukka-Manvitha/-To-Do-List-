@@ -47,5 +47,3 @@ The layout adapts smoothly to screen sizes, from phones to tablets to desktops, 
 
 ---
 
-## 📂 Project Structure
-
